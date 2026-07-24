@@ -1,6 +1,6 @@
 # React-Js_Modern-Bank
  TailwindCSS React JS
 
-Live URL : [Modern Bank](https://reactjs-modern-bank.github.io/)
+Live URL : [Modern Bank](https://adelefaell.github.io/reactjs-modern-bank/)
 
 ![preview](./preview.png)
